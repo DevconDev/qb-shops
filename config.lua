@@ -105,6 +105,22 @@ Config.Products = {
             type = "item",
             slot = 12,
         },
+        [13] = {
+            name = "redslushy",
+            price = 2,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 13,
+        },
+        [14] = {
+            name = "chair97",
+            price = 2,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 14,
+        },
     },
     ["liquor"] = {
         [1] = {
